@@ -11,4 +11,8 @@ public class Gao {
     public Gao(String name) {
         this.name = name;
     }
+
+    public String getName() {
+        return name;
+    }
 }
